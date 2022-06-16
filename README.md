@@ -8,7 +8,7 @@ The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebook
 
 In this work, a Reservoir Computing-based model is develop to propagate quantum wavefunctions with time.  In this project we obtain the eigenenergies, eigenstates and scar functions of this quantum system, by propagating an initial wavefunction with time using Reservoir Computing.
 
-<p align="center"><img src="https://github.com/laiadc/Scars_RC/blob/main/scars_caramelo.PNG"  align=middle width=600pt />
+<p align="center"><img src="https://github.com/laiadc/Scars_RC/blob/main/scars_caramelo.png"  align=middle width=600pt />
 </p>
 <p align="center">
 <em>Example of the scar functions obtained in this work, for different energies. </em>
